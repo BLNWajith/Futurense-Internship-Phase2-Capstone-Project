@@ -1,0 +1,8 @@
+2024-06-08 17:00:29,587:INFO:Inserted data into Health successfully.
+2024-06-08 17:00:29,588:INFO:Time taken to insert data into Health: 0.02547931671142578 seconds.
+2024-06-08 17:00:29,608:INFO:Inserted data into Training successfully.
+2024-06-08 17:00:29,608:INFO:Time taken to insert data into Training: 0.04329037666320801 seconds.
+2024-06-08 17:00:29,615:ERROR:Error inserting data into PlayerDetail: UNIQUE constraint failed: PlayerDetail.PU_ID
+2024-06-08 17:00:29,615:INFO:Time taken to insert data into PlayerDetail: 0.054567813873291016 seconds.
+2024-06-08 17:00:29,626:ERROR:Error inserting data into PlayerPerformance: UNIQUE constraint failed: PlayerPerformance.PU_ID
+2024-06-08 17:00:29,627:INFO:Time taken to insert data into PlayerPerformance: 0.06561565399169922 seconds.
