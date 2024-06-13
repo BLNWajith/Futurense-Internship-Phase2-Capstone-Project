@@ -190,7 +190,7 @@
 
 ###
 
-<p align="left">git clone https://github.com/yourusername/sports-data-analysis.git</p>
+<p align="left">git clone https://github.com/BLNWajith/Futurense-Internship-Phase2-Capstone-Project.git</p>
 
 ###
 
